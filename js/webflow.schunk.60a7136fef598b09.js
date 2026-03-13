@@ -1279,7 +1279,6 @@ var tram = __webpack_require__(5487) && $.tram;
 /* globals document, window, navigator */ /**
  * Webflow: Brand pages on the subdomain
  */ 
-return;
 var Webflow = __webpack_require__(3949);
 Webflow.define('brand', module.exports = function($) {
     var api = {};
@@ -1352,7 +1351,6 @@ Webflow.define('brand', module.exports = function($) {
 /* globals document, window, localStorage, WEBFLOW_API_HOST, WEBFLOW_DEFAULT_HOST */ /**
  * Webflow: Editor loader
  */ 
-return;
 var Webflow = __webpack_require__(3949);
 Webflow.define('edit', module.exports = function($, _, options) {
     options = options || {};
