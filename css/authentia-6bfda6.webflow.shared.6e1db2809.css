@@ -2313,7 +2313,7 @@ a:hover {
 
 .heading {
   text-align: center;
-  font-size: 6.5rem;
+  font-size: 5.5rem;
   font-weight: 600;
   line-height: 1;
 }
@@ -2668,9 +2668,10 @@ a:hover {
 }
 
 .heading-6 {
+  margin-bottom: 1rem;
   font-size: 2.5rem;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 .body-paragraph-2 {
@@ -2908,6 +2909,10 @@ a:hover {
   font-weight: 300;
   position: absolute;
   right: calc(100% + .25rem);
+}
+
+.roles-column-1, .roles-column-2, .roles-column-3 {
+  width: 100%;
 }
 
 @media screen and (max-width: 991px) {
