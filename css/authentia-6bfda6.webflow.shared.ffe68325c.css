@@ -2880,7 +2880,7 @@ a:hover {
 
 .lobby-inner-container {
   border-radius: 3rem;
-  width: 100svw;
+  width: 100vw;
   position: relative;
   overflow: hidden;
 }
