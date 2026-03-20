@@ -2048,7 +2048,7 @@ a:hover {
   width: 100%;
   max-width: 1140px;
   margin-bottom: 0;
-  padding: 2rem 1rem .5rem;
+  padding: 2rem 2rem .5rem;
 }
 
 .container {
@@ -2388,6 +2388,7 @@ a:hover {
 }
 
 .heading-3 {
+  text-align: center;
   margin-top: 0;
   margin-bottom: .5rem;
   font-size: 2.5rem;
@@ -2869,7 +2870,7 @@ a:hover {
 
 .image-7 {
   z-index: 50;
-  opacity: .8;
+  opacity: .58;
   margin-bottom: 2rem;
   position: relative;
 }
@@ -3068,6 +3069,14 @@ a:hover {
 .link-block-2 {
   text-align: center;
   margin-bottom: 1rem;
+}
+
+.legal-body-copy {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: .9rem;
 }
 
 @media screen and (max-width: 991px) {
@@ -3372,6 +3381,10 @@ a:hover {
     font-size: 1.25rem;
   }
 
+  .hero-footer {
+    width: 100%;
+  }
+
   .heading {
     font-size: 2rem;
   }
@@ -3474,9 +3487,13 @@ a:hover {
     padding: 1.5rem 1rem;
   }
 
-  .section-block-copy, .section-block-copy-copy {
+  .section-block-copy {
     padding-top: 2rem;
     padding-bottom: 2rem;
+  }
+
+  .section-block-copy-copy {
+    padding: 2rem;
   }
 
   .heading-7, .heading-8 {
