@@ -2075,6 +2075,11 @@ a:hover {
   box-shadow: 0 5px 10px #0003;
 }
 
+.nav-menu-wrapper:where(.w-variant-96070dd8-f99d-756e-0f01-8e5d04b5ca09) {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+}
+
 .nav-menu-two {
   justify-content: space-between;
   align-items: center;
@@ -2197,6 +2202,10 @@ a:hover {
   font-size: .8rem;
   font-weight: 500;
   transition: background-color .4s;
+}
+
+.nav-button:where(.w-variant-96070dd8-f99d-756e-0f01-8e5d04b5ca09) {
+  display: none;
 }
 
 .nav-button:hover {
@@ -2710,7 +2719,7 @@ a:hover {
   color: var(--txt-light);
   justify-content: center;
   align-items: flex-end;
-  height: 30svh;
+  min-height: 40svh;
   padding-left: 3rem;
   padding-right: 3rem;
   display: flex;
@@ -3044,9 +3053,7 @@ a:hover {
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  height: 25vh;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 10rem 1rem 3rem;
   display: flex;
 }
 
@@ -3508,6 +3515,7 @@ a:hover {
   }
 
   .nav-menu-wrapper {
+    margin-top: 1rem;
     margin-left: .5rem;
     margin-right: .5rem;
     padding: .5rem 1rem 1rem;
@@ -3523,6 +3531,13 @@ a:hover {
     margin-left: auto;
     margin-right: 1rem;
     position: relative;
+  }
+
+  .menu-button.w--open {
+    -webkit-backdrop-filter: blur(9px);
+    backdrop-filter: blur(9px);
+    color: var(--txt-dark);
+    background-color: #f7f5f273;
   }
 
   .hero {
@@ -3629,6 +3644,10 @@ a:hover {
     font-size: 2rem;
   }
 
+  .footer {
+    padding-top: 2rem;
+  }
+
   .image-5 {
     padding-left: 2rem;
     padding-right: 2rem;
@@ -3677,6 +3696,10 @@ a:hover {
 
   .testimonial-quote, .testimonial-role {
     font-size: 1rem;
+  }
+
+  .legal-hero {
+    padding-top: 3rem;
   }
 
   .legal-hero-title {
