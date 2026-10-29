@@ -1,0 +1,6 @@
+/*
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+
+/downloads/*
+  X-Robots-Tag: noindex, follow

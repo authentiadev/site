@@ -1,0 +1,22 @@
+AUTHENTIA | Pilot Readiness Checklist
+CONTEXTUAL PROMPTS | Version 1.0 | October 2026
+
+Use only information approved for the AI tool you choose. Replace the bracketed input with relevant context. Keep evidence references with the material. Ask the appropriate owner to verify outputs, calculations, decisions and responsibilities. These prompts support review and drafting; they do not establish facts or approve a project. All examples in this bundle are fictional.
+
+1. REVIEW READINESS EVIDENCE
+Review this checklist. For each ready item, identify whether the cited evidence actually addresses the requirement. List missing evidence and unresolved owners. Preserve unknown and not-applicable statuses. Do not certify readiness.
+INPUT: [approved checklist]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?
+
+2. WALK THROUGH FAILURE
+Use this bounded workflow to outline what a reviewer should do with a wrong output, unavailable system, missing input and out-of-scope request. Mark proposed steps as suggestions requiring owner confirmation.
+INPUT: [approved workflow and fallback notes]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?
+
+3. PREPARE THE REVIEW RECORD
+Draft a review record using these notes. Include the recorded decision, unresolved blocking items, action owners and next review. Do not mark actions complete unless the notes explicitly establish completion.
+INPUT: [approved meeting notes]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?

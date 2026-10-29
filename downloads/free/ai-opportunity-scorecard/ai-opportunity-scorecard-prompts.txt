@@ -1,0 +1,22 @@
+AUTHENTIA | AI Opportunity Scorecard
+CONTEXTUAL PROMPTS | Version 1.0 | October 2026
+
+Use only information approved for the AI tool you choose. Replace the bracketed input with relevant context. Keep evidence references with the material. Ask the appropriate owner to verify outputs, calculations, decisions and responsibilities. These prompts support review and drafting; they do not establish facts or approve a project. All examples in this bundle are fictional.
+
+1. CHALLENGE THE OPPORTUNITY
+Use the opportunity description and evidence below. Identify vague scope, unsupported value claims and missing dependencies. Do not supply ratings or facts that are absent. Separate questions for the workflow owner from questions for the technology owner. End with the next evidence needed for a decision.
+INPUT: [approved opportunity brief and evidence]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?
+
+2. COMPARE THE SHORTLIST
+Compare these opportunities using only the supplied value, feasibility, data, ownership, risk and testability evidence. Explain tradeoffs and unknowns. Flag a condition that could prevent a trial. Do not average critical issues into a numerical total.
+INPUT: [approved shortlist]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?
+
+3. PREPARE THE DECISION
+Draft a short decision record from these notes. State investigate, defer or decline only if a choice is recorded. Otherwise mark the decision as unresolved. Include the reason, next action, owner and review date.
+INPUT: [approved workshop notes]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?

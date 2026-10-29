@@ -1,0 +1,41 @@
+# Authentia
+
+> Applied AI strategy and consulting for businesses in Canada, the United States, and the United Kingdom.
+
+Authentia offers AI opportunity assessments, strategy roadmaps, pilot and implementation guidance, and ongoing advisory. Engagements may be focused projects or advisory retainers. Clients and their delivery teams retain responsibility for execution and operation.
+
+The dental technology case describes a limited live rollout in Canada, positive qualitative feedback, and a planned broader US rollout. The banking and marketplace cases describe earlier digital delivery experience.
+
+Free resources are available without registration. Paid resource pages describe the packs and include public samples; purchase availability is shown on each page.
+
+## Services
+- [AI strategy and opportunity assessment](https://www.authentia.ca/services/ai-strategy): Identify valuable use cases, test assumptions, and turn a broad AI ambition into a practical roadmap.
+- [Implementation and pilot advisory](https://www.authentia.ca/services/implementation-advisory): Shape a bounded pilot, evaluate tools and delivery plans, and help your team make informed implementation decisions.
+- [Ongoing AI advisory](https://www.authentia.ca/services/ongoing-advisory): A continuing advisory relationship for leaders navigating AI priorities, investment choices, implementation questions, and adoption.
+
+## Selected experience
+- [From a sales bottleneck to a live AI pilot](https://www.authentia.ca/case-studies/dental-technology-ai-pilot): How Authentia defined and built an AI-assisted lead qualification pilot for a dental technology supplier, with a limited live rollout in Canada.
+- [Modernizing a digital banking experience](https://www.authentia.ca/case-studies/financial-services-digital-experience): Selected digital delivery experience supporting the redesign of a financial institution's banking platform through product, design, and engineering collaboration.
+- [Supporting a cross-border vehicle marketplace](https://www.authentia.ca/case-studies/cross-border-marketplace): Selected digital delivery experience supporting a vehicle marketplace connecting private sellers and dealerships across Canada and the United States.
+
+## Insights
+- [How to choose your first AI use case](https://www.authentia.ca/insights/choosing-your-first-ai-use-case): A practical way to find an AI opportunity with a clear business owner, usable information and a result your team can evaluate.
+- [What an AI pilot needs to prove before rollout](https://www.authentia.ca/insights/evaluating-an-ai-pilot-before-rollout): Evaluate the whole workflow, including exceptions, review effort and ownership, before expanding an AI pilot.
+- [Should you buy, adapt or build your AI solution?](https://www.authentia.ca/insights/buy-adapt-or-build-ai): Compare ready-made software, configured tools and custom development against the workflow, operating effort and ownership your business needs.
+- [From a useful prompt to a reliable business workflow](https://www.authentia.ca/insights/from-prompts-to-reliable-workflows): Give reusable prompts the inputs, reference material, review steps and ownership they need to support everyday work.
+
+## Resources
+- [AI Opportunity Scorecard](https://www.authentia.ca/resources/ai-opportunity-scorecard): Compare potential AI opportunities using business value, feasibility, data, ownership, risk and testability.
+- [Workflow Brief Template](https://www.authentia.ca/resources/workflow-brief-template): Create a shared brief for a specific workflow before evaluating tools or requesting an implementation proposal.
+- [Pilot Readiness Checklist](https://www.authentia.ca/resources/pilot-readiness-checklist): Prepare a bounded AI trial with clear ownership, approved inputs, evaluation criteria and a practical fallback.
+- [AI Strategy Working Pack](https://www.authentia.ca/resources/ai-strategy-working-pack): Run a structured strategy review, compare opportunities and prepare a roadmap with clear evidence, owners and decision gates.
+- [AI Pilot Decision Pack](https://www.authentia.ca/resources/ai-pilot-decision-pack): Prepare a pilot charter, evaluation approach, ownership map and provider handoff, then make a clear expand, revise or stop decision.
+
+## Company and contact
+- [About Authentia](https://www.authentia.ca/about): Company background and consulting focus.
+- [Our approach](https://www.authentia.ca/approach): How engagements connect business context, assessment, and implementation decisions.
+- [Contact](https://www.authentia.ca/contact): Discuss a project or advisory relationship at info@authentia.ca.
+
+## Optional
+- [Privacy policy](https://www.authentia.ca/privacy): Enquiries, downloads, and optional analytics.
+- [Terms of use](https://www.authentia.ca/terms): Website and resource use.

@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "ai-opportunity-scorecard",
+    "title": "AI Opportunity Scorecard",
+    "description": "Compare potential AI opportunities using business value, feasibility, data, ownership, risk and testability.",
+    "kind": "Free",
+    "format": "Printable HTML guide, editable CSV worksheets and contextual prompts",
+    "contents": [
+      "Printable guide with an assessment framework",
+      "Editable opportunity scorecard and fictional example",
+      "Three contextual prompts and a decision record"
+    ],
+    "body": "<section><h2>A practical working resource</h2><p>Compare AI ideas, expose missing evidence and choose a useful next investigation.</p><p>Use the guide, editable worksheet and fictional example together. Download the ZIP, open the HTML guide in a browser and work in a copy of the CSV template.</p></section><section><h2>What is included</h2><ul><li>Printable guide with an assessment framework</li><li>Editable opportunity scorecard and fictional example</li><li>Three contextual prompts and a decision record</li></ul></section><section><h2>Who it is for</h2><p>Business leaders, operations teams and advisers turning an AI idea into a clear business decision.</p></section><section><h2>How to use it</h2><p>Complete the record with the people who perform and own the work. Keep evidence and unresolved questions visible. Use the prompts to challenge a draft, then have the relevant owners confirm the decision.</p></section><p>All worked examples are fictional. The material helps structure planning and review; it does not promise a particular outcome.</p>",
+    "download": "../downloads/free/ai-opportunity-scorecard.zip",
+    "sample": null
+  },
+  {
+    "slug": "workflow-brief-template",
+    "title": "Workflow Brief Template",
+    "description": "Create a shared brief for a specific workflow before evaluating tools or requesting an implementation proposal.",
+    "kind": "Free",
+    "format": "Printable HTML guide, editable CSV worksheets and contextual prompts",
+    "contents": [
+      "Printable instructions and a completed fictional brief",
+      "Editable section-by-section CSV template",
+      "Three prompts for scope, exceptions and provider questions"
+    ],
+    "body": "<section><h2>A practical working resource</h2><p>Describe the work, the proposed AI assistance and the decisions people retain.</p><p>Use the guide, editable worksheet and fictional example together. Download the ZIP, open the HTML guide in a browser and work in a copy of the CSV template.</p></section><section><h2>What is included</h2><ul><li>Printable instructions and a completed fictional brief</li><li>Editable section-by-section CSV template</li><li>Three prompts for scope, exceptions and provider questions</li></ul></section><section><h2>Who it is for</h2><p>Business leaders, operations teams and advisers turning an AI idea into a clear business decision.</p></section><section><h2>How to use it</h2><p>Complete the record with the people who perform and own the work. Keep evidence and unresolved questions visible. Use the prompts to challenge a draft, then have the relevant owners confirm the decision.</p></section><p>All worked examples are fictional. The material helps structure planning and review; it does not promise a particular outcome.</p>",
+    "download": "../downloads/free/workflow-brief-template.zip",
+    "sample": null
+  },
+  {
+    "slug": "pilot-readiness-checklist",
+    "title": "Pilot Readiness Checklist",
+    "description": "Prepare a bounded AI trial with clear ownership, approved inputs, evaluation criteria and a practical fallback.",
+    "kind": "Free",
+    "format": "Printable HTML guide, editable CSV worksheets and contextual prompts",
+    "contents": [
+      "Printable readiness framework and fictional review",
+      "Editable checklist with evidence, owners and actions",
+      "Three prompts for gaps, failure handling and a review record"
+    ],
+    "body": "<section><h2>A practical working resource</h2><p>Record what is ready, what needs work and what should prevent a live start.</p><p>Use the guide, editable worksheet and fictional example together. Download the ZIP, open the HTML guide in a browser and work in a copy of the CSV template.</p></section><section><h2>What is included</h2><ul><li>Printable readiness framework and fictional review</li><li>Editable checklist with evidence, owners and actions</li><li>Three prompts for gaps, failure handling and a review record</li></ul></section><section><h2>Who it is for</h2><p>Workflow owners, delivery leads and business sponsors preparing or reviewing a bounded AI pilot.</p></section><section><h2>How to use it</h2><p>Complete the record with the people who perform and own the work. Keep evidence and unresolved questions visible. Use the prompts to challenge a draft, then have the relevant owners confirm the decision.</p></section><p>All worked examples are fictional. The material helps structure planning and review; it does not promise a particular outcome.</p>",
+    "download": "../downloads/free/pilot-readiness-checklist.zip",
+    "sample": null
+  },
+  {
+    "slug": "ai-strategy-working-pack",
+    "title": "AI Strategy Working Pack",
+    "description": "Run a structured strategy review, compare opportunities and prepare a roadmap with clear evidence, owners and decision gates.",
+    "kind": "Paid",
+    "format": "Printable HTML guide, editable CSV worksheets and contextual prompts",
+    "contents": [
+      "Substantial printable workshop and strategy guide",
+      "Six editable worksheet types, each with a fictional example",
+      "Value-assumption method and executive decision memo",
+      "Ten contextual prompts for evidence-led planning"
+    ],
+    "body": "<section><h2>A practical working resource</h2><p>A practical sequence from leadership discussion to a reasoned AI investment decision.</p><p>This working pack brings the decisions and editable records into one sequence. Preview the sample to see the approach and level of detail.</p></section><section><h2>What is included</h2><ul><li>Substantial printable workshop and strategy guide</li><li>Six editable worksheet types, each with a fictional example</li><li>Value-assumption method and executive decision memo</li><li>Ten contextual prompts for evidence-led planning</li></ul></section><section><h2>Who it is for</h2><p>Business leaders, operations teams and advisers turning an AI idea into a clear business decision.</p></section><section><h2>How to use it</h2><p>Work through the guide with the workflow owner and the people responsible for systems, data and approval. The editable CSV files are planning records with blank and fictional example versions. They do not contain automatic forecasts.</p></section><p>All worked examples are fictional. The material helps structure planning and review; it does not promise a particular outcome.</p>",
+    "download": null,
+    "sample": "../downloads/samples/ai-strategy-working-pack-sample.html"
+  },
+  {
+    "slug": "ai-pilot-decision-pack",
+    "title": "AI Pilot Decision Pack",
+    "description": "Prepare a pilot charter, evaluation approach, ownership map and provider handoff, then make a clear expand, revise or stop decision.",
+    "kind": "Paid",
+    "format": "Printable HTML guide, editable CSV worksheets and contextual prompts",
+    "contents": [
+      "Substantial printable pilot design and evaluation guide",
+      "Six editable worksheet types, each with a fictional example",
+      "Provider handoff and pilot review templates",
+      "Ten contextual prompts for scope, evaluation and decision review"
+    ],
+    "body": "<section><h2>A practical working resource</h2><p>Structure a bounded trial, evaluate the evidence and decide what should happen next.</p><p>This working pack brings the decisions and editable records into one sequence. Preview the sample to see the approach and level of detail.</p></section><section><h2>What is included</h2><ul><li>Substantial printable pilot design and evaluation guide</li><li>Six editable worksheet types, each with a fictional example</li><li>Provider handoff and pilot review templates</li><li>Ten contextual prompts for scope, evaluation and decision review</li></ul></section><section><h2>Who it is for</h2><p>Workflow owners, delivery leads and business sponsors preparing or reviewing a bounded AI pilot.</p></section><section><h2>How to use it</h2><p>Work through the guide with the workflow owner and the people responsible for systems, data and approval. The editable CSV files are planning records with blank and fictional example versions. They do not contain automatic forecasts.</p></section><p>All worked examples are fictional. The material helps structure planning and review; it does not promise a particular outcome.</p>",
+    "download": null,
+    "sample": "../downloads/samples/ai-pilot-decision-pack-sample.html"
+  }
+]

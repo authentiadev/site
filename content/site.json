@@ -1,0 +1,14 @@
+{
+  "name": "Authentia",
+  "url": "https://www.authentia.ca",
+  "email": "info@authentia.ca",
+  "bookingUrl": null,
+  "products": {},
+  "analytics": {
+    "measurementId": "G-LP7BRQP3MV",
+    "productionHosts": ["authentia.ca", "www.authentia.ca"]
+  },
+  "seo": {
+    "lastModified": "2026-10-28"
+  }
+}

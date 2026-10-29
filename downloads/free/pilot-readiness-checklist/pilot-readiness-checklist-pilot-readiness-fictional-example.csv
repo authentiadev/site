@@ -1,0 +1,7 @@
+﻿"Readiness area","Evidence required","Status","Evidence reviewed","Open issue","Action","Action owner","Due date","Blocks live start?","Review decision"
+"Scope and review","Approved categories and coordinator confirmation","Ready","FICTIONAL agreed workflow","None recorded","Keep scope version with trial","Workflow owner","Set during workshop","No","Continue preparation"
+"Data and access","Permitted fields and approved sample","Unknown","FICTIONAL access not yet confirmed","Unclear sample permissions","Confirm permitted fields and handling","Systems owner","Set during workshop","Yes","No live start"
+"Baseline","Current routing and correction work","Needs work","FICTIONAL walkthrough only","No observed baseline","Collect defined baseline","Operations lead","Set during workshop","Yes","Prepare evidence"
+"Evaluation","Ordinary and difficult cases with expected decisions","Needs work","FICTIONAL case list incomplete","Unclear expected outcomes","Agree rubric and sample","Delivery lead","Set during workshop","Yes","Prepare evaluation"
+"Fallback","Existing manual route","Ready","FICTIONAL coordinator can route manually","None recorded","Document stop and recovery route","Workflow owner","Set during workshop","No","Retain manual route"
+"Operation and cost","Usage visibility and agreed ceiling","Needs work","FICTIONAL commercial limits unresolved","Who stops the trial?","Agree limits and stop authority","Sponsor","Set during workshop","Yes","Resolve before live trial"

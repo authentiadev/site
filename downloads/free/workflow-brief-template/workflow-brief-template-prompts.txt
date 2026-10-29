@@ -1,0 +1,22 @@
+AUTHENTIA | Workflow Brief Template
+CONTEXTUAL PROMPTS | Version 1.0 | October 2026
+
+Use only information approved for the AI tool you choose. Replace the bracketed input with relevant context. Keep evidence references with the material. Ask the appropriate owner to verify outputs, calculations, decisions and responsibilities. These prompts support review and drafting; they do not establish facts or approve a project. All examples in this bundle are fictional.
+
+1. CHECK THE BOUNDARY
+Review this brief for an unclear trigger, end point, excluded activity or human decision. Quote the relevant supplied wording. List questions rather than inventing process details.
+INPUT: [approved workflow brief]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?
+
+2. FIND MISSING EXCEPTIONS
+Using only this workflow and the supplied examples, identify where missing inputs, ambiguity or a failed output would require a human decision. Separate observed exceptions from hypothetical ones to investigate.
+INPUT: [approved brief and examples]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?
+
+3. PREPARE PROVIDER QUESTIONS
+Prepare questions an implementation provider should resolve before proposing a solution. Group them by scope, systems, data, evaluation and responsibility. Do not recommend a tool without evidence.
+INPUT: [approved brief]
+
+CHECK: Does the output preserve supplied evidence, unknowns and human decision authority?
