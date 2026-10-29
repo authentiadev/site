@@ -16,14 +16,24 @@
   const consentVersion = 1;
   const lifetime = 90 * 24 * 60 * 60 * 1000;
   const freeResources = new Set([
-    'ai-opportunity-scorecard', 'workflow-brief-template', 'pilot-readiness-checklist'
+    'ai-opportunity-scorecard', 'workflow-brief-template', 'pilot-readiness-checklist',
+    'change-readiness-starter-kit', 'workflow-design-starter-kit', 'ai-governance-starter-kit'
   ]);
-  const paidResources = new Set(['ai-strategy-working-pack', 'ai-pilot-decision-pack']);
+  const paidResources = new Set([
+    'ai-strategy-working-pack', 'ai-pilot-decision-pack',
+    'ai-digital-change-working-pack', 'workflow-operating-model-pack', 'practical-ai-governance-pack'
+  ]);
   const packSubjects = new Map([
     ['Resource enquiry: AI Strategy Working Pack', 'ai-strategy-working-pack'],
     ['Resource enquiry: AI Pilot Decision Pack', 'ai-pilot-decision-pack'],
     ['ai-strategy-working-pack', 'ai-strategy-working-pack'],
-    ['ai-pilot-decision-pack', 'ai-pilot-decision-pack']
+    ['ai-pilot-decision-pack', 'ai-pilot-decision-pack'],
+    ['Resource enquiry: AI and Digital Change Working Pack', 'ai-digital-change-working-pack'],
+    ['Resource enquiry: Workflow and Operating Model Pack', 'workflow-operating-model-pack'],
+    ['Resource enquiry: Practical AI Governance Pack', 'practical-ai-governance-pack'],
+    ['ai-digital-change-working-pack', 'ai-digital-change-working-pack'],
+    ['workflow-operating-model-pack', 'workflow-operating-model-pack'],
+    ['practical-ai-governance-pack', 'practical-ai-governance-pack']
   ]);
   const pages = new Map([
     ['/', ['Home', 'home']],
@@ -54,6 +64,12 @@
     ['/resources/pilot-readiness-checklist.html', ['Pilot Readiness Checklist', 'resource']],
     ['/resources/ai-strategy-working-pack.html', ['AI Strategy Working Pack', 'resource']],
     ['/resources/ai-pilot-decision-pack.html', ['AI Pilot Decision Pack', 'resource']],
+    ['/resources/change-readiness-starter-kit.html', ['Change Readiness Starter Kit', 'resource']],
+    ['/resources/workflow-design-starter-kit.html', ['Workflow Design Starter Kit', 'resource']],
+    ['/resources/ai-governance-starter-kit.html', ['AI Governance Starter Kit', 'resource']],
+    ['/resources/ai-digital-change-working-pack.html', ['AI and Digital Change Working Pack', 'resource']],
+    ['/resources/workflow-operating-model-pack.html', ['Workflow and Operating Model Pack', 'resource']],
+    ['/resources/practical-ai-governance-pack.html', ['Practical AI Governance Pack', 'resource']],
     ['/privacy.html', ['Privacy policy', 'legal']],
     ['/terms.html', ['Terms of service', 'legal']],
     ['/404.html', ['Page not found', 'not_found']]

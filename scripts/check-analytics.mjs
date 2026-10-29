@@ -325,6 +325,27 @@ check('only approved interactions produce fixed safe event payloads', () => {
   assert.equal(site.events('purchase').length, 0);
 });
 
+check('every catalogued resource reports only its recognised download, sample or enquiry', () => {
+  const resources = JSON.parse(fs.readFileSync(new URL('../content/resources.json', import.meta.url), 'utf8'));
+  for (const resource of resources) {
+    const site = fixture({ url: `https://www.authentia.ca/resources/${resource.slug}`, preference: saved('granted') });
+    assert.equal(site.events('page_view')[0][2].content_type, 'resource', resource.slug);
+    if (resource.kind === 'Free') {
+      site.click(site.link(`/downloads/free/${resource.slug}.zip?private=hidden`));
+      assert.equal(site.events('file_download').length, 1, resource.slug);
+      assert.equal(site.events('file_download')[0][2].resource_id, resource.slug);
+    } else {
+      site.click(site.link(`/downloads/samples/${resource.slug}-sample`));
+      site.click(site.link(`mailto:info@authentia.ca?subject=${encodeURIComponent('Resource enquiry: '+resource.title)}&body=confidential`));
+      assert.equal(site.events('resource_sample_click').length, 1, resource.slug);
+      assert.equal(site.events('resource_sample_click')[0][2].resource_id, resource.slug);
+      assert.equal(site.events('paid_pack_interest').length, 1, resource.slug);
+      assert.equal(site.events('paid_pack_interest')[0][2].resource_id, resource.slug);
+    }
+    assert.equal(JSON.stringify(site.queue()).includes('confidential'), false);
+  }
+});
+
 check('unknown paths and referrers cannot leak personal path components', () => {
   const site = fixture({ url: 'https://www.authentia.ca/private@example.com?name=Private', referrer: 'https://www.authentia.ca/private@example.com?secret=1', preference: saved('granted') });
   const page = site.events('page_view')[0][2];

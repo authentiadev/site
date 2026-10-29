@@ -44,7 +44,18 @@ Client names are withheld in the cases. The dental technology story distinguishe
 
 ## Downloads and checkout
 
-The three free resources and their source files are in `downloads/free/`. Public excerpts of the paid packs are in `downloads/samples/`.
+The six free resources and their source files are in `downloads/free/`. Public excerpts of the five paid packs are in `downloads/samples/`.
+
+The three service starter kits and their three fuller working packs cover change readiness, workflow/operating model design and practical AI governance. Each new starter includes two worksheet types and five prompts. Each new full pack includes six worksheet types and twelve prompts. Excel workbooks combine blank templates and clearly labelled fictional examples; individual CSV copies are also included. Guides are standalone printable HTML, and prompts are plain text.
+
+After editing a new pack, keep its Excel workbook, CSV files, guide, prompts, README inventory and catalogue description consistent. Repackage selected resources with:
+
+```sh
+python3 scripts/package-resources.py --resource change-readiness-starter-kit
+python3 scripts/package-resources.py --resource ai-digital-change-working-pack --private-root '/Users/adrian/Work/Authentia/Website Products'
+```
+
+Repeat `--resource` to package several resources in one command. The packager validates required files and CSV/template pairs, uses reproducible ZIP members and rejects full paid products stored inside this repository. It creates files locally and performs no upload or deployment. Only declared free ZIPs are admitted to the public build.
 
 **Keep complete paid products outside this repository and the published directory.** A static URL is not access control. Upload the full private ZIP files to the approved digital-download checkout provider for delivery after purchase.
 

@@ -75,5 +75,118 @@
     "body": "<section><h2>A practical working resource</h2><p>Structure a bounded trial, evaluate the evidence and decide what should happen next.</p><p>This working pack brings the decisions and editable records into one sequence. Preview the sample to see the approach and level of detail.</p></section><section><h2>What is included</h2><ul><li>Substantial printable pilot design and evaluation guide</li><li>Six editable worksheet types, each with a fictional example</li><li>Provider handoff and pilot review templates</li><li>Ten contextual prompts for scope, evaluation and decision review</li></ul></section><section><h2>Who it is for</h2><p>Workflow owners, delivery leads and business sponsors preparing or reviewing a bounded AI pilot.</p></section><section><h2>How to use it</h2><p>Work through the guide with the workflow owner and the people responsible for systems, data and approval. The editable CSV files are planning records with blank and fictional example versions. They do not contain automatic forecasts.</p></section><p>All worked examples are fictional. The material helps structure planning and review; it does not promise a particular outcome.</p>",
     "download": null,
     "sample": "../downloads/samples/ai-pilot-decision-pack-sample.html"
+  },
+  {
+    "slug": "change-readiness-starter-kit",
+    "title": "Change Readiness Starter Kit",
+    "description": "Assess role impacts, readiness and stakeholder actions before introducing an AI tool or a new digital way of working.",
+    "kind": "Free",
+    "format": "Printable HTML guide, Excel workbook, editable CSV templates and contextual prompts",
+    "modified": "2026-10-29",
+    "service": "ai-digital-change-management",
+    "contents": [
+      "Printable change-readiness guide",
+      "Formatted Excel workbook with blank templates and fictional examples, plus individual CSV copies",
+      "Two editable worksheet types: readiness and impacts; stakeholder actions",
+      "A completed fictional example for each worksheet",
+      "Five contextual prompts with input and human-review instructions"
+    ],
+    "body": "<section><h2>Prepare people for a defined change</h2><p>Use this starter kit to review one initiative, identify the people affected and agree the preparation needed before the next decision. It brings role impacts, evidence, stakeholder actions and unresolved questions into a shared record.</p></section><section><h2>Who it is for</h2><p>Sponsors, programme leads, workflow owners and managers preparing an AI or digital change in a mid-sized or large organisation.</p></section><section><h2>How to use it</h2><p>Read the guide, copy the blank worksheets and review them with people who perform and support the work. The fictional examples show the level of detail; the prompts help challenge a draft without inventing facts or approving the change.</p><p>Your organisation owns communication, learning delivery, implementation and operation. For help applying the plan, explore <a href=\"../services/ai-digital-change-management.html\">AI and digital change management advisory</a>.</p></section><p>All worked examples are fictional. The worksheets are planning records, not automatic readiness scores or evidence of client results.</p><p>The download includes a formatted Excel workbook and individual CSV copies. Each worksheet has a blank template and a clearly labelled fictional example. Prompts are supplied as plain text, and the HTML guide can be read or printed in a browser.</p>",
+    "download": "../downloads/free/change-readiness-starter-kit.zip",
+    "sample": null
+  },
+  {
+    "slug": "ai-digital-change-working-pack",
+    "title": "AI and Digital Change Working Pack",
+    "description": "Connect change impacts, sponsor decisions, communication, role-based learning and adoption evidence in a practical rollout plan.",
+    "kind": "Paid",
+    "format": "Printable HTML guide, Excel workbook, editable CSV templates and contextual prompts",
+    "modified": "2026-10-29",
+    "service": "ai-digital-change-management",
+    "contents": [
+      "Substantial guide for preparing and reviewing a client-owned change programme",
+      "Formatted Excel workbook with blank templates and fictional examples, plus individual CSV copies",
+      "Six editable worksheet types, each with a completed fictional example",
+      "Change brief, role impacts, sponsor plan and communications/enablement records",
+      "Adoption-measure definitions and a wave-review decision record",
+      "Twelve contextual prompts with approved inputs, output formats and review checks"
+    ],
+    "body": "<section><h2>Turn readiness findings into a working plan</h2><p>This pack helps sponsors, managers and programme teams connect a defined business change with role impacts, leadership decisions, practical communication, learning and evidence for the next rollout decision.</p></section><section><h2>Who it is for</h2><p>Leadership and transformation teams with internal or partner delivery capacity, preparing an AI initiative or a related digital change.</p></section><section><h2>How to use it</h2><p>Work through six linked records: change brief; stakeholder and role impacts; sponsor/manager plan; communications and enablement; adoption measures; and wave review. Use the paired fictional examples to understand the detail, then keep your own evidence, unknowns and decision owners visible.</p><p>The twelve prompts support review and drafting. Your organisation retains responsibility for approvals, employee communication, learning delivery, rollout and operation. Authentia can support the decisions through <a href=\"../services/ai-digital-change-management.html\">change-management advisory</a>.</p></section><p>Read the public sample to see genuine excerpts and a usable prompt. All worked examples are fictional; completing a worksheet does not establish readiness or authorise deployment.</p><p>The full pack includes a formatted Excel workbook and individual CSV copies, with blank templates and clearly labelled fictional examples. The public sample shows part of the guide and a usable prompt; it does not contain the complete workbook or prompt collection.</p>",
+    "download": null,
+    "sample": "../downloads/samples/ai-digital-change-working-pack-sample.html"
+  },
+  {
+    "slug": "workflow-design-starter-kit",
+    "title": "Workflow Design Starter Kit",
+    "description": "Map process steps, clarify handoffs and distinguish AI assistance from the decisions people retain before planning a change.",
+    "kind": "Free",
+    "format": "Printable HTML guide, Excel workbook, editable CSV templates and contextual prompts",
+    "contents": [
+      "Printable step-by-step workflow design guide",
+      "Formatted Excel workbook with blank templates and fictional examples, plus individual CSV copies",
+      "Two editable worksheet types, each with a completed fictional example",
+      "Five contextual prompts for mapping, handoffs, exceptions and evidence"
+    ],
+    "body": "<section><h2>Turn a brief into a working map</h2><p>Use this kit after defining your workflow. Map current steps, inspect what moves between teams, and make proposed changes and retained human decisions explicit.</p></section><section><h2>Who it is for</h2><p>Process owners, operations teams and transformation leads working with the people who perform and receive the work.</p></section><section><h2>How to use it</h2><p>Download the ZIP and open the printable guide. Complete copies of the current-workflow map and future-workflow decisions CSVs, using the fictional examples as references. Use the five prompts to challenge drafts with approved information, then have the relevant owners validate the result.</p><p>This extends the <a href=\"workflow-brief-template.html\">Workflow Brief Template</a> with step-level design. The <a href=\"workflow-operating-model-pack.html\">full working pack</a> adds baseline, ownership and transition records.</p></section><section><h2>Connect the design with your team</h2><p>Our <a href=\"../services/workflow-operating-model.html\">workflow and operating model advisory</a> can help facilitate the review and prepare recommendations. Your organisation owns implementation and operation. All examples are fictional.</p></section><p>The download includes a formatted Excel workbook and individual CSV copies. Each worksheet has a blank template and a clearly labelled fictional example. Prompts are supplied as plain text, and the HTML guide can be read or printed in a browser.</p>",
+    "download": "../downloads/free/workflow-design-starter-kit.zip",
+    "sample": null,
+    "modified": "2026-10-29",
+    "service": "workflow-operating-model"
+  },
+  {
+    "slug": "workflow-operating-model-pack",
+    "title": "Workflow and Operating Model Pack",
+    "description": "Design future workflows with clear decisions, exception routes, operating ownership, baseline measures and a practical transition review.",
+    "kind": "Paid",
+    "format": "Printable HTML guide, Excel workbook, editable CSV templates and contextual prompts",
+    "contents": [
+      "Substantial printable design and workshop guide",
+      "Formatted Excel workbook with blank templates and fictional examples, plus individual CSV copies",
+      "Six editable worksheet types, each with a coherent fictional example",
+      "Baseline, decision-rights, dependency and transition-review records",
+      "Twelve contextual prompts for discovery, design and review"
+    ],
+    "body": "<section><h2>Connect the process with its operating responsibilities</h2><p>Work from a defined boundary through current and future maps, decision and exception routes, ownership, dependencies and a transition review. The pack supports a design that the people responsible for delivery can understand and challenge.</p></section><section><h2>Who it is for</h2><p>Process owners, operations leaders and transformation teams coordinating work across business, technology and supporting functions.</p></section><section><h2>How to use it</h2><p>Read the guide, run a scoped design discussion and complete the six CSV worksheet types. Each has a blank template and a matching fictional example. Twelve contextual prompts help check evidence, compare options and draft records. The worksheets contain no automatic forecasts or readiness scores.</p><p>Read the public sample to see the approach. The <a href=\"workflow-design-starter-kit.html\">free starter kit</a> is a smaller starting point for process mapping.</p></section><section><h2>Prefer help applying the pack?</h2><p><a href=\"../services/workflow-operating-model.html\">Authentia workflow and operating model advisory</a> provides analysis, workshops and recommendations. Client teams and appointed partners retain implementation and operational responsibility. All examples are fictional; no result is promised.</p></section><p>The full pack includes a formatted Excel workbook and individual CSV copies, with blank templates and clearly labelled fictional examples. The public sample shows part of the guide and a usable prompt; it does not contain the complete workbook or prompt collection.</p>",
+    "download": null,
+    "sample": "../downloads/samples/workflow-operating-model-pack-sample.html",
+    "modified": "2026-10-29",
+    "service": "workflow-operating-model"
+  },
+  {
+    "slug": "ai-governance-starter-kit",
+    "title": "AI Governance Starter Kit",
+    "description": "Describe an AI use, clarify information and action boundaries, and prepare a review plan with evidence and accountable owners.",
+    "kind": "Free",
+    "format": "Printable HTML guide, Excel workbook, editable CSV templates and contextual prompts",
+    "contents": [
+      "Printable guide to AI-use intake and review ownership",
+      "Formatted Excel workbook with blank templates and fictional examples, plus individual CSV copies",
+      "Two editable worksheet types, each with a completed fictional example",
+      "Five contextual prompts with structured outputs and human review checks"
+    ],
+    "body": "<section><h2>Start with a clear AI-use record</h2><p>Use this starter kit to define one proposed or current AI use, identify what remains unknown and prepare the next review with the people who own it.</p></section><section><h2>Who it is for</h2><p>Business sponsors, programme leads and governance colleagues establishing a practical route for reviewing AI use.</p></section><section><h2>Work through the next decision</h2><p>Complete the AI-use intake and review-and-ownership worksheets with your workflow, information and specialist owners. Keep facts, provider claims, proposals and actual human decisions separate. The examples use a fictional internal support assistant.</p><p>Download the ZIP, read the guide and work in copies of the CSV templates. The prompts help challenge a draft; they do not approve a use or provide a compliance verdict.</p></section><section><h2>Need a wider governance process?</h2><p>The <a href=\"practical-ai-governance-pack.html\">Practical AI Governance Pack</a> adds inventory, working guidance, supplier questions, oversight and change records. Authentia's <a href=\"../services/ai-governance.html\">governance advisory</a> helps responsible client teams apply the work to their context.</p></section><p>The download includes a formatted Excel workbook and individual CSV copies. Each worksheet has a blank template and a clearly labelled fictional example. Prompts are supplied as plain text, and the HTML guide can be read or printed in a browser.</p>",
+    "download": "../downloads/free/ai-governance-starter-kit.zip",
+    "sample": null,
+    "modified": "2026-10-29",
+    "service": "ai-governance"
+  },
+  {
+    "slug": "practical-ai-governance-pack",
+    "title": "Practical AI Governance Pack",
+    "description": "Build connected AI-use records, role-specific guidance, review responsibilities, supplier questions, oversight arrangements and change decisions.",
+    "kind": "Paid",
+    "format": "Printable HTML guide, Excel workbook, editable CSV templates and contextual prompts",
+    "contents": [
+      "Substantial printable guide from intake to review and retirement",
+      "Formatted Excel workbook with blank templates and fictional examples, plus individual CSV copies",
+      "Six editable worksheet types, each with a completed fictional example",
+      "Working guidance, supplier-review and decision-record templates",
+      "Twelve contextual prompts with evidence and human-review instructions"
+    ],
+    "body": "<section><h2>Connect the working decisions</h2><p>This pack helps responsible teams establish a practical review process around specific AI uses. It connects an inventory with guidance, ownership, supplier evidence, oversight and a record of decisions and changes.</p></section><section><h2>Who it is for</h2><p>Business sponsors, AI programme leads and governance colleagues coordinating with their legal, privacy, security, risk, procurement and technical owners.</p></section><section><h2>Use the records together</h2><p>Work through six worksheet types with the guide and matching fictional examples. Carry a stable use identifier across records, preserve evidence references and distinguish draft proposals from actual authorised decisions.</p><p>The twelve prompts support drafting and challenge. Your responsible owners verify the evidence, determine specialist requirements and approve any change. The pack does not provide legal conclusions, automatic risk ratings or certification.</p></section><section><h2>Preview the approach</h2><p>The free sample includes a guide excerpt, a fictional review example and one usable prompt. The full pack stays separate from the public sample. For organisation-specific facilitation and advice, explore <a href=\"../services/ai-governance.html\">practical AI governance advisory</a>.</p></section><p>The full pack includes a formatted Excel workbook and individual CSV copies, with blank templates and clearly labelled fictional examples. The public sample shows part of the guide and a usable prompt; it does not contain the complete workbook or prompt collection.</p>",
+    "download": null,
+    "sample": "../downloads/samples/practical-ai-governance-pack-sample.html",
+    "modified": "2026-10-29",
+    "service": "ai-governance"
   }
 ]

@@ -35,6 +35,12 @@ Free resources are available without registration. Paid resource pages describe 
 - [Pilot Readiness Checklist](https://www.authentia.ca/resources/pilot-readiness-checklist): Prepare a bounded AI trial with clear ownership, approved inputs, evaluation criteria and a practical fallback.
 - [AI Strategy Working Pack](https://www.authentia.ca/resources/ai-strategy-working-pack): Run a structured strategy review, compare opportunities and prepare a roadmap with clear evidence, owners and decision gates.
 - [AI Pilot Decision Pack](https://www.authentia.ca/resources/ai-pilot-decision-pack): Prepare a pilot charter, evaluation approach, ownership map and provider handoff, then make a clear expand, revise or stop decision.
+- [Change Readiness Starter Kit](https://www.authentia.ca/resources/change-readiness-starter-kit): Assess role impacts, readiness and stakeholder actions before introducing an AI tool or a new digital way of working.
+- [AI and Digital Change Working Pack](https://www.authentia.ca/resources/ai-digital-change-working-pack): Connect change impacts, sponsor decisions, communication, role-based learning and adoption evidence in a practical rollout plan.
+- [Workflow Design Starter Kit](https://www.authentia.ca/resources/workflow-design-starter-kit): Map process steps, clarify handoffs and distinguish AI assistance from the decisions people retain before planning a change.
+- [Workflow and Operating Model Pack](https://www.authentia.ca/resources/workflow-operating-model-pack): Design future workflows with clear decisions, exception routes, operating ownership, baseline measures and a practical transition review.
+- [AI Governance Starter Kit](https://www.authentia.ca/resources/ai-governance-starter-kit): Describe an AI use, clarify information and action boundaries, and prepare a review plan with evidence and accountable owners.
+- [Practical AI Governance Pack](https://www.authentia.ca/resources/practical-ai-governance-pack): Build connected AI-use records, role-specific guidance, review responsibilities, supplier questions, oversight arrangements and change decisions.
 
 ## Company and contact
 - [About Authentia](https://www.authentia.ca/about): Company background and consulting focus.

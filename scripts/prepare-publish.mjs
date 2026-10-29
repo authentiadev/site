@@ -21,7 +21,16 @@ for (const [source, directory] of [
 }
 const assetRoots = ['downloads', 'css', 'js', 'images', 'videos'];
 const optionalFiles = ['robots.txt', 'sitemap.xml', 'llms.txt', '_redirects', '_headers', '.nojekyll'];
-const freeIds = ['ai-opportunity-scorecard', 'workflow-brief-template', 'pilot-readiness-checklist'];
+const resourceCatalogue = JSON.parse(await fs.readFile(path.join(root, 'content/resources.json'), 'utf8'));
+const freeIds = resourceCatalogue.filter(resource => resource.kind === 'Free').map(resource => {
+  if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(resource.slug) || resource.download !== `../downloads/free/${resource.slug}.zip`) {
+    throw new Error('Unexpected free-download path: '+resource.slug);
+  }
+  return resource.slug;
+});
+if (resourceCatalogue.some(resource => resource.kind === 'Paid' && resource.download)) {
+  throw new Error('A paid resource must not expose a full public download.');
+}
 const publicZipPaths = new Set(freeIds.map(id => `downloads/free/${id}.zip`));
 const forbiddenSegments = new Set(['content', 'scripts', 'docs', '.git', 'node_modules', 'dist', 'website products']);
 const files = new Set();
