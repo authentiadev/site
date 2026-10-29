@@ -42,4 +42,3 @@ PROMPT: Group the outstanding questions by decision affected. Propose the smalle
 INPUT: [paste approved inputs with stable evidence references]
 OUTPUT: Question; decision affected; evidence requested; relevant existing role; dependency; priority rationale.
 REVIEW: Confirm access, responsible roles and priorities before collecting information.
-
