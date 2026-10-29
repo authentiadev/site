@@ -568,6 +568,11 @@ def validate(root, as_of, config=None):
         if canonical_page:
             check_graph(path, page, relative, expected_canonical, parsed_blocks)
         text = "".join(page.visible)
+        # The owner confirmed consent for the original named homepage testimonials.
+        # Keep this exception tied to Sara's exact attribution; cases remain anonymous.
+        if relative == "index.html":
+            text = re.sub(r"\bSara J\.\s+Vice President • Purolator Inc\.",
+                          "Sara J. Vice President • [consented testimonial company]", text, count=1)
         for term in sorted({match.group() for match in FORBIDDEN.finditer(text)}, key=str.lower):
             fail(path, "Prohibited wording in visible content: " + repr(term))
 

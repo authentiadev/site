@@ -40,7 +40,7 @@ The publish script derives service, case, article and resource pages from their 
 
 Articles and cases have an answer summary, organisation byline and manually maintained `modified` date. Update review dates only after a substantive review. A draft is not assigned a historical publication date. Keep case-study outcomes tied to available evidence.
 
-Client names are withheld in the cases. The dental technology story distinguishes the live Canadian rollout from the planned US expansion. Historical digital product cases remain identified as earlier delivery experience. No numerical pilot results or new testimonials have been invented.
+Client names are withheld in the cases. This applies to case-study narratives, not the existing consented testimonials: retain their original displayed names, roles and company attributions, and preserve their quotes. The dental technology story distinguishes the live Canadian rollout from the planned US expansion. Historical digital product cases remain identified as earlier delivery experience. No numerical pilot results or new testimonials have been invented.
 
 ## Downloads and checkout
 
