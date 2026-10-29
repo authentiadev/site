@@ -35,3 +35,11 @@ Primary references reviewed for context include [Skills England's AI upskilling 
 Keep workbook, CSVs, guide, prompts, README and catalogue claims consistent when editing. Use `scripts/package-resources.py --resource SLUG` for a new free resource, or add `--private-root '/Users/adrian/Work/Authentia/Website Products'` for a full paid pack. Repeat `--resource` for multiple bundles. Regenerate and check the public site after catalogue or guide changes.
 
 Paid pages currently provide samples and email enquiries; no product price or active checkout has been configured. Complete packs can be uploaded to an approved purchase-delivery provider when commercial terms and checkout are ready. Do not link full paid ZIPs from the static website.
+
+## Live release receipt
+
+Published **29 October 2026** to the existing Authentia site. Source revision: `97d74766ef803040b19ebdab1fa2f1a04c8055c4`; production deployment: `6827983f-28e4-42e6-93e5-f7b66428908e`. Verified preview: `https://df12672e.site-bvz.pages.dev/` (host-level noindex).
+
+Live checks confirmed all **36 canonical pages** and the sitemap match the release source. The three new free ZIPs matched local file hashes and each contained eight intact deliverables. All three new public samples carried noindex. Full paid ZIP paths and private source/documentation paths returned real 404 responses. Google Search Console acknowledged the resubmitted sitemap and displayed **Success** with **36 discovered pages** on 29 October 2026; this is not an indexing or ranking claim.
+
+Analytics catalogue coverage was verified locally without changing account settings, generating another live test event or altering browser protections. The owned local preview server was stopped. The unrelated pre-existing `.DS_Store` modification was left untouched.
