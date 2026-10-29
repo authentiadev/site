@@ -353,6 +353,19 @@ check('clean production URLs and HTML aliases report the same canonical path', (
   }
 });
 
+check('every indexable sitemap page has a recognised, canonical analytics context', () => {
+  const sitemap = fs.readFileSync(new URL('../sitemap.xml', import.meta.url), 'utf8');
+  const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(match => match[1]);
+  assert.ok(urls.length > 0);
+  for (const url of urls) {
+    const site = fixture({ url, preference: saved('granted') });
+    assert.equal(site.events('page_view').length, 1, url);
+    const payload = site.events('page_view')[0][2];
+    assert.equal(payload.page_location, url);
+    assert.notEqual(payload.content_type, 'not_found', url);
+  }
+});
+
 check('storage failures preserve this-document choices without prompting repeatedly', () => {
   const site = fixture({ storageFails: true });
   site.choose('granted');

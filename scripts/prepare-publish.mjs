@@ -6,16 +6,19 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const output = path.join(root, 'dist');
 const pages = [
   'index.html', '404.html', 'about.html', 'approach.html', 'case-studies.html',
-  'contact.html', 'insights.html', 'privacy.html', 'resources.html', 'services.html', 'terms.html',
-  'services/ai-strategy.html', 'services/implementation-advisory.html', 'services/ongoing-advisory.html',
-  'case-studies/cross-border-marketplace.html', 'case-studies/dental-technology-ai-pilot.html',
-  'case-studies/financial-services-digital-experience.html',
-  'insights/buy-adapt-or-build-ai.html', 'insights/choosing-your-first-ai-use-case.html',
-  'insights/evaluating-an-ai-pilot-before-rollout.html', 'insights/from-prompts-to-reliable-workflows.html',
-  'resources/ai-opportunity-scorecard.html', 'resources/ai-pilot-decision-pack.html',
-  'resources/ai-strategy-working-pack.html', 'resources/pilot-readiness-checklist.html',
-  'resources/workflow-brief-template.html'
+  'contact.html', 'insights.html', 'privacy.html', 'resources.html', 'services.html', 'terms.html'
 ];
+for (const [source, directory] of [
+  ['services', 'services'], ['cases', 'case-studies'], ['articles', 'insights'], ['resources', 'resources']
+]) {
+  const items = JSON.parse(await fs.readFile(path.join(root, `content/${source}.json`), 'utf8'));
+  for (const item of items) {
+    if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(item.slug)) throw new Error(`Invalid public slug in ${source}`);
+    const page = `${directory}/${item.slug}.html`;
+    if (pages.includes(page)) throw new Error(`Duplicate public page: ${page}`);
+    pages.push(page);
+  }
+}
 const assetRoots = ['downloads', 'css', 'js', 'images', 'videos'];
 const optionalFiles = ['robots.txt', 'sitemap.xml', 'llms.txt', '_redirects', '_headers', '.nojekyll'];
 const freeIds = ['ai-opportunity-scorecard', 'workflow-brief-template', 'pilot-readiness-checklist'];

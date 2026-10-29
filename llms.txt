@@ -1,17 +1,20 @@
 # Authentia
 
-> Applied AI strategy and consulting for businesses in Canada, the United States, and the United Kingdom.
+> AI strategy and digital change advisory for mid-sized and large organisations in Canada, the United States, and the United Kingdom.
 
-Authentia offers AI opportunity assessments, strategy roadmaps, pilot and implementation guidance, and ongoing advisory. Engagements may be focused projects or advisory retainers. Clients and their delivery teams retain responsibility for execution and operation.
+Authentia offers AI strategy, AI and digital change management, workflow and operating model design, practical AI governance, implementation and pilot advisory, and ongoing advisory. Engagements may be focused projects or advisory retainers. Clients and their delivery teams retain responsibility for execution and operation.
 
 The dental technology case describes a limited live rollout in Canada, positive qualitative feedback, and a planned broader US rollout. The banking and marketplace cases describe earlier digital delivery experience.
 
 Free resources are available without registration. Paid resource pages describe the packs and include public samples; purchase availability is shown on each page.
 
 ## Services
-- [AI strategy and opportunity assessment](https://www.authentia.ca/services/ai-strategy): Identify valuable use cases, test assumptions, and turn a broad AI ambition into a practical roadmap.
-- [Implementation and pilot advisory](https://www.authentia.ca/services/implementation-advisory): Shape a bounded pilot, evaluate tools and delivery plans, and help your team make informed implementation decisions.
-- [Ongoing AI advisory](https://www.authentia.ca/services/ongoing-advisory): A continuing advisory relationship for leaders navigating AI priorities, investment choices, implementation questions, and adoption.
+- [AI strategy and opportunity assessment](https://www.authentia.ca/services/ai-strategy): Prioritise worthwhile AI opportunities, assess readiness and build a practical investment case and roadmap around business value.
+- [AI and digital change management](https://www.authentia.ca/services/ai-digital-change-management): Prepare people and workflows for new technology with clear ownership, stakeholder alignment, practical enablement and adoption measures.
+- [Workflow and operating model design](https://www.authentia.ca/services/workflow-operating-model): Connect people, systems and AI through practical workflows, clear decision rights, useful handoffs and responsibilities your team can implement.
+- [Practical AI governance](https://www.authentia.ca/services/ai-governance): Give teams practical guidance for AI decisions, with clear ownership, review routes, human oversight and escalation alongside your existing specialist functions.
+- [Implementation and pilot advisory](https://www.authentia.ca/services/implementation-advisory): Shape a bounded pilot, compare tools and providers, and review delivery plans and evidence before deciding whether to expand.
+- [Ongoing AI and digital change advisory](https://www.authentia.ca/services/ongoing-advisory): A continuing advisory relationship for leaders connecting AI priorities, digital change, investment decisions, adoption and practical governance.
 
 ## Selected experience
 - [From a sales bottleneck to a live AI pilot](https://www.authentia.ca/case-studies/dental-technology-ai-pilot): How Authentia defined and built an AI-assisted lead qualification pilot for a dental technology supplier, with a limited live rollout in Canada.
@@ -23,6 +26,8 @@ Free resources are available without registration. Paid resource pages describe 
 - [What an AI pilot needs to prove before rollout](https://www.authentia.ca/insights/evaluating-an-ai-pilot-before-rollout): Evaluate the whole workflow, including exceptions, review effort and ownership, before expanding an AI pilot.
 - [Should you buy, adapt or build your AI solution?](https://www.authentia.ca/insights/buy-adapt-or-build-ai): Compare ready-made software, configured tools and custom development against the workflow, operating effort and ownership your business needs.
 - [From a useful prompt to a reliable business workflow](https://www.authentia.ca/insights/from-prompts-to-reliable-workflows): Give reusable prompts the inputs, reference material, review steps and ownership they need to support everyday work.
+- [Why AI adoption needs more than training](https://www.authentia.ca/insights/ai-adoption-beyond-training): Plan the leadership, workflow, communication and learning changes that help employees put AI to work with confidence.
+- [How to measure AI value beyond usage](https://www.authentia.ca/insights/measuring-ai-value-beyond-usage): Connect AI adoption with business outcomes, complete operating costs and clear decisions about where to fund, revise or stop.
 
 ## Resources
 - [AI Opportunity Scorecard](https://www.authentia.ca/resources/ai-opportunity-scorecard): Compare potential AI opportunities using business value, feasibility, data, ownership, risk and testability.

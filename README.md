@@ -1,6 +1,6 @@
 # Authentia website
 
-Static website for Authentia's applied AI strategy and consulting services. It retains the existing Webflow stylesheet, photography, video, logos, colour palette, and homepage composition.
+Static website for Authentia's AI strategy and digital change advisory services. It retains the existing Webflow stylesheet, photography, video, logos, colour palette, and homepage composition.
 
 ## Build and check
 
@@ -29,14 +29,14 @@ Open http://127.0.0.1:8766/ in a browser. This loopback-only server reproduces t
 ## Content sources
 
 - `content/home.html` contains the homepage body, with the original composition and animation identifiers.
-- `content/articles.json`, `content/cases.json`, and `content/resources.json` contain the long-form content and catalogue.
+- `content/services.json`, `content/articles.json`, `content/cases.json`, and `content/resources.json` contain the service offering, long-form content and catalogue.
 - `content/site.json` contains the canonical domain, enquiry email, checkout configuration, verified Analytics ID and manually maintained site review date.
-- `scripts/build-site.mjs` contains the common layouts, service pages, company information, and website policies.
+- `scripts/build-site.mjs` contains the common layouts, company information, and website policies.
 - `css/advisory.css` extends the existing stylesheet for navigation and new page types.
 - `js/advisory.js` handles mobile navigation, resource filters, and background-video controls.
 - `js/analytics.js` handles opt-in Google Analytics and a fixed list of safe interaction events.
 
-When adding a page, update both the public page inventory in `scripts/prepare-publish.mjs` and the known-page inventory in `js/analytics.js`; validate the packaged output as well as sources.
+The publish script derives service, case, article and resource pages from their content files. When adding a page, update the known-page inventory in `js/analytics.js`; the Analytics check compares that inventory with the sitemap. Add any new root page to the publish script's fixed inventory. Validate the packaged output as well as sources.
 
 Articles and cases have an answer summary, organisation byline and manually maintained `modified` date. Update review dates only after a substantive review. A draft is not assigned a historical publication date. Keep case-study outcomes tied to available evidence.
 
@@ -74,6 +74,8 @@ Free downloads require no email address. Contact links open an email to `info@au
 The verified GA4 property uses `G-LP7BRQP3MV`. Google Analytics loads only after permission on the exact production HTTPS hosts. Ads features remain disabled in the implementation. All query strings and fragments are removed from measurement URLs, including UTM values; campaign-level attribution is intentionally limited. Cloudflare's existing cookieless performance monitoring is separate and disclosed in the privacy policy.
 
 See [SEO research, account configuration and measurement checks](docs/seo-and-measurement.md) for primary sources, verified settings and remaining launch checks.
+
+See [AI and digital change service research](docs/service-expansion-research.md) for the October 29, 2026 buyer-demand evidence, brand fit, offering structure and claim boundaries.
 
 ## Publishing
 
