@@ -107,3 +107,17 @@ Avoid a long list of overlapping services such as separate pages for leadership 
 Research validates the relevance of a problem; Authentia's own verified records validate experience. Keep those forms of evidence separate. Do not imply that the organisations behind the public research are clients or endorsers. Do not publish confidential client names or document details.
 
 Before presenting any specific outcome, verify its baseline, measurement period, source and attribution. For new service pages, explain approach, outputs and responsibility boundaries instead of inventing past projects. Describe governance as a practical business capability with specialist client review, and implementation advisory as advice through decisions and handoff. Client teams or appointed partners remain responsible for execution.
+
+## Implementation and release verification
+
+Released on **29 October 2026** to the existing Cloudflare Pages project and canonical `https://www.authentia.ca` site. Production source revision: `6f9c1b56177b667bf43991899ecf6b9e269a1aea`; production deployment: `8aa7310e-7773-4c15-bc2f-1fb3dece8e36`. Verified preview: `https://a8633ca6.site-bvz.pages.dev/` (host-level noindex).
+
+- Added three service pages: AI and digital change management, workflow and operating model design, and practical AI governance. Expanded the existing strategy, implementation/pilot advisory and ongoing advisory pages. Updated the homepage, services catalogue, About, Approach, Contact and Insights positioning.
+- Added two substantive articles: **Why AI adoption needs more than training** and **Measuring AI value beyond tool usage**. Primary-source links and limitations are included in the articles. Existing case-study evidence and assets were preserved.
+- Retained the original design, CSS, photography, video and logos. Reviewed the six-service catalogue at desktop and 390 × 844 mobile sizes; reviewed the new change-management page, adoption article and homepage on mobile.
+- Source and packaged-output checks passed for **36 public HTML documents**, including five standalone noindex guides; **1,446 references**, three free ZIP archives and linked metadata/schema were checked. The sitemap contains **30 canonical indexable URLs**.
+- Nine routing checks, background-motion checks and **15 network-free Analytics scenarios** passed. New page paths are recognised by the existing consent-based Analytics implementation; a new check compares every sitemap URL with that inventory. Analytics account settings and consent behaviour were not changed, and no new live test event or browser-protection exception was needed.
+- Live HTTP checks confirmed all 30 canonical pages returned 200 at the correct URL, with titles, H1s, canonicals and structured data matching the release. The public sitemap matched the generated file. Working content, research documentation, scripts and an unknown path returned real 404 responses. Apex-to-www and HTML-to-clean-route redirects were verified.
+- Google Search Console acknowledged the resubmitted live sitemap and displayed **Success**, last read **29 October 2026**, and **30 discovered pages**. This records sitemap processing, not indexing, rankings or AI citations.
+
+Complete paid products remain outside the public build. This research document is also excluded from publication. The temporary local preview server was stopped after verification.
